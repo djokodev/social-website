@@ -1,7 +1,3 @@
-"""
-this file contains the models of your application images
-"""
-
 from django.conf import settings
 from django.db import models
 from django.utils.text import slugify
